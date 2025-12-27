@@ -1,0 +1,6 @@
+TRANSACTION RECONCILIATION REPORT
+--------------------------------
+
+Matched Transactions: ['TXN1001', 'TXN1004']
+Amount Mismatch: ['TXN1002']
+Missing Settlements: ['TXN1003']
